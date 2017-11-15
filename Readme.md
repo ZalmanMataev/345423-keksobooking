@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Zalman Mataev](https://up.htmlacademy.ru/javascript/11/user/345423).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Карпов].
 
 ---
 
