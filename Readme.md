@@ -1,8 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Zalman Mataev](https://up.htmlacademy.ru/javascript/11/user/345423).
-* Наставник: [Евгений Карпов].
-  Cсылка на профиль наставника в github.com: https://github.com/Paintrain86
+* Наставник: [Evgeny Karpov](https://github.com/Paintrain86).
 
 ---
 
